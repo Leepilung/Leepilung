@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wannabe SoftWare Engineer 👋
 
 <!--
 **Leepilung/Leepilung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Now Learning on : SWJungle 3rd in KAIST MUNJI CAMPUS
+🌱 Learning Tech stack : JavaScript, React, Python, C, CSS 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leepilung&show_icons=true&theme=radical)
