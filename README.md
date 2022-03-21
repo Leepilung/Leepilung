@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 Completion (수료)
 -->
-🔭 Now Learning on : SWJungle 3rd in KAIST MUNJI CAMPUS
+🔭 Learning Completion : SWJungle 3rd in KAIST MUNJI CAMPUS
 <br>
 🌱 My Tech stack
   - Front-end : React, SCSS, JavaScript, HTML/CSS
