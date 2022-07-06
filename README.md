@@ -22,6 +22,4 @@ Completion (수료)
   - Back-end  : Node.js(Express), Flask
   - ETC       : Python, MongoDB
 
-💬 About me : [Link](https://docs.google.com/document/d/13qJaO1Yz0T_Nn2ZWXr8n_4XoY93JTM5FoPGZ-YbZU5I/edit)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leepilung&show_icons=true&theme=radical)
