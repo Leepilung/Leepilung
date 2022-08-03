@@ -1,4 +1,4 @@
-### Wannabe Front-end Software Engineer 👋
+### Junior Front-end Software Engineer 👋
 
 <!--
 **Leepilung/Leepilung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Completion (수료)
 🔭 Learning Completion : SWJungle 3rd in KAIST
 <br>
 🌱 My Tech stack
-  - Front-end : React, SCSS, JavaScript, HTML/CSS
+  - Front-end : React, Vue, SCSS, JavaScript, HTML/CSS
   - Back-end  : Node.js(Express), Flask
   - ETC       : Python, MongoDB
 
