@@ -18,7 +18,7 @@ Completion (수료)
 🔭 Learning Completion : SWJungle 3rd in KAIST
 <br>
 🌱 My Tech stack
-  - Front-end : React, Vue, SCSS, JavaScript, HTML/CSS
+  - Front-end : React, Vue, Nuxt, SCSS, JavaScript, HTML/CSS
   - Back-end  : Node.js(Express), Flask
   - ETC       : Python, MongoDB
 
